@@ -8,6 +8,7 @@ tags: [Turkey, Istanbul, Python, Book]
 comments: true
 feature: assets/img/Screenshot from 2024-08-31 22-00-19.png
 ---
+# A Magical Journey to Istanbul: From Olympic Inspiration to King Raam’s Electrifying Concert
 
 ![images](https://github.com/user-attachments/assets/31ffc794-2647-4125-b8a9-d8f63d9dea27)
 
