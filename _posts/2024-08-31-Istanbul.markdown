@@ -6,7 +6,7 @@ date:   2024-08-31
 categories: 
 tags: [Turkey, Istanbul, Python, Book]
 comments: true
-feature: assets/img/Screenshot from 2024-08-31 21-31-27.png
+feature: assets/img/Screenshot from 2024-08-31 22-00-19.png
 ---
 
 ![images](https://github.com/user-attachments/assets/31ffc794-2647-4125-b8a9-d8f63d9dea27)
