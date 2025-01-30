@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "SeisMon"
+excerpt: "This is just the beginning!"
+date:   2024-11-11 
+categories: 
+tags: [Geophysics, Kharazmi University, SeisMon]
+comments: true
+feature: assets/img/LogoSeisMon2Jpg.jpg
+---
+
+![LogoSeisMon2Jpg](https://github.com/user-attachments/assets/63803bfe-0b41-46d0-88fe-c670484c2700)
+
+### Announcing **SeisMon**: A New Research Center for Seismic and Fault Monitoring at Kharazmi University  
+
+I’m thrilled to share some exciting news! Together with **Dr. Misaghi**, my Geophysics professor, we have established a research center at **Kharazmi University** dedicated to **seismic and fault monitoring**. We’ve named it **SeisMon**, a combination of "Seismic" and "Monitoring," reflecting our mission to enhance earthquake research and fault activity analysis.  
+
+At **SeisMon**, our goal is to advance the understanding of seismic activity, develop real-time monitoring solutions, and contribute to earthquake hazard assessment. With cutting-edge technology, data-driven research, and collaboration with experts in the field, we aim to make a meaningful impact in geophysics and seismic risk management.  
+
+This is just the beginning! We’re excited about future projects, collaborations, and opportunities to work with students and researchers who share our passion for earthquake science. Stay tuned for updates on our research and findings.  
+
+If you're interested in seismic monitoring, geophysics, or want to collaborate, feel free to reach out! Let’s work together to better understand and mitigate seismic risks.  
+
+![photo_2024-11-11_18-19-45](https://github.com/user-attachments/assets/afa41ed3-1d79-47c0-8b69-74ae5f730e69)
