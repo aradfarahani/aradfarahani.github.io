@@ -2,7 +2,7 @@
 layout: post
 title:  "A Hands-On Geophysics Workshop"
 excerpt: "Seismic Data Acquisition in the Field"
-date:   2024-120424 
+date:   2024-12-04 
 categories: 
 tags: [Workshop, Kharazmi University]
 comments: true
