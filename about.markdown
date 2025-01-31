@@ -11,7 +11,11 @@ comments: true
 
 <center> Hello everyone; My name is Mahdi Farmahini Farahani But, everybody calls Me <a href="https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani"><b>Arad</b></a> and this is my Personal Website! You can find detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC. Enjoy exploring!</center>
 
-I’m a creative undergraduate Geology student with a passion for Hydrology/Hydrogeology, Climate Change, Geophysics, and Remote Sensing. I thoroughly enjoy Data Analysis and Data Visualization in Python. Since childhood, I’ve been fascinated by Math, and currently, I focus on Advanced Linear Algebra and Mathematical Modeling. I also have a love for music, video games, and outdoor activities like hiking. I enjoy connecting with people and learning about their cultures. In Addition to these, I love to develope open-source softwares.
+I’m a senior undergraduate Geology student with a passion for Geophysics—especially Seismology and Hydrogeophysics—and Computational Science. Lately, I’ve been exploring AI-driven forecasting, and I also enjoy working with image processing techniques for clustering and classification.
+
+Beyond academics, I love developing open-source software, where I can blend problem-solving with creativity. I’m an outdoor enthusiast who enjoys hiking, learning about different cultures, and connecting with people. Music and video games are also a big part of my life, offering both inspiration and relaxation.
+
+I have a deep appreciation for fine pens—my favorite being the Cross ATX—and watches, recently adding a mint green Tissot PRX to my collection. In my free time, I play the Kamancheh, inspired by the artistry of Ali-Asghar Bahari.
 
 ## Personal Information
 
@@ -140,7 +144,7 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
   
 ## Language
 #### Persian (Native)
-#### English (Fluent) Preparing for the IELTS exam
+#### English (Fluent)
 
 ## Organizations
 
