@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enthusiastic Participation in the 14th Intra-University Harekat Festival"
+title:  "14th Intra-University Harekat Festival"
 excerpt: "Earth Sciences Student Scientific Association Booth"
 date:   2024-12-10 
 categories: 
