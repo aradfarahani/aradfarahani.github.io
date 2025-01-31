@@ -72,23 +72,41 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 </p>
 
 ## Soft Skills
-- **Positive Engagement**  
-- **Critical Thinking**  
-- **Management**  
-- **Problem Solving**  
-- **Collaboration**  
+- **Positive Engagement**
+- **Critical Thinking**
+- **Management**
+- **Problem Solving**
+- **Collaboration**
 
 ## Software Proficiency
-| Category           | Software |
-|--------------------|------------------------------------------------------|
-| GIS & Remote Sensing | ENVI, Global Mapper, ArcGIS, QGIS, Google Earth Pro, SAS.Planet |
-| 3D Modeling & Visualization | Blender, 3ds Max, Agisoft Metashape |
-| Graphic & Video Editing | Canva, Adobe Photoshop, Adobe Premiere Pro, Corel Draw |
-| Data Analysis & Simulation | Datamine, Groundwater Vistas, Microsoft Office |
-  
+
+### GIS & Remote Sensing
+- ENVI
+- Global Mapper
+- ArcGIS
+- QGIS
+- Google Earth Pro
+- SAS.Planet
+
+### 3D Modeling & Visualization
+- Blender
+- 3ds Max
+- Agisoft Metashape
+
+### Graphic & Video Editing
+- Canva
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Corel Draw
+
+### Data Analysis & Simulation
+- Datamine
+- Groundwater Vistas
+- Microsoft Office
+
 ## Fieldwork Skills
-- **Drone Surveying**  
-- **Geoelectrical Surveys (Induced Polarization & Resistivity Sounding - IP-RS)**  
+- **Drone Surveying**
+- **Geoelectrical Surveys (Induced Polarization & Resistivity Sounding - IP-RS)**
 
 ## Teaching and Work Experiences
 *	[Founder & Research and Development Specialist, FEZtool, August 2023 – Present](https://aradfarahani.com//Remote-Sensing/)
