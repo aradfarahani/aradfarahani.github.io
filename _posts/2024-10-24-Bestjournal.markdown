@@ -18,7 +18,7 @@ Our 30th issue of "Zamin Pouya" was selected as the top journal in this prestigi
 
 A heartfelt thank you to all our friends and colleagues who contributed to this achievement! 🌿🎉
 
-
+[Download Zamin Pouya 30](/Zamin Pouya 30.pdf){: .btn}
 
 
 
