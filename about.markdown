@@ -136,7 +136,9 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 *	Introduction to Data Analytics, IBM (Offred by Coursera), March 2021
 
 ## Honors & Awards
+- Ranked 8th out of 60 students in the Undergraduate Studies, Kharazmi University, February 2025
 - Hydro 2024 Research-Oriented Summer School Full Scholarship, International Academy, May 2024
+- Ranked 11th among all participants in 2024 Master of Geophysics University Entrance Exam (Konkoor), National Organization of Educational Testing, April 2024
 - Winner of the Geological Society of Kharazmi University logo design contest, Kharazmi University,February 2024
 - Received a 2500DKK grant from the Copenhagen University for a research visit, Copenhagen University, December 2023
 - Gold Medalist of the DrCT2021, Singapore International Math Contest Centre (SIMCC), July 2021
