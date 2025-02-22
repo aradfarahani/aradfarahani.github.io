@@ -109,9 +109,10 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 - **Geoelectrical Surveys (Induced Polarization & Resistivity Sounding - IP-RS)**
 
 ## Teaching and Work Experiences
-*	[Founder & Research and Development Specialist, FEZtool, August 2023 – Present](https://aradfarahani.com//Remote-Sensing/)
+*	[Founder & Research and Development Specialist, FEZtool, August 2023 – Present](https://feztool.com/)
 *	[Talent Acquisition Specialist, BABAEEE, July 2022 - Present (Volunteering)](https://aradfarahani.com//BABAEEE2/)
-*	Teacher, Iranian Young Scholars Club(IrYSC)
+*	Teacher, Iranian Young Scholars Club(IrYSC), September 2021 - Present
+*	[Board Member, NovaVira, June 2023 - November 2024](https://novavira.com/)
 *	[Applied Data Science in Geology Instructor, Young Scholars Club, July 2024](https://aradfarahani.com//IESO2024/)
 *	[The Advance Python and Machine Learning workshop Instructor, Kharazmi University,  April 2024 - June 2024](https://aradfarahani.com//KhUAdvanceGeoML/)
 *	[Editorial Board Member, Imam Khomeini International University, September 2023 - June 2024 (Volunteering)](https://www.researchgate.net/publication/381197940_Designing_the_Green_Belt_in_the_southwest_of_Zahedan)
