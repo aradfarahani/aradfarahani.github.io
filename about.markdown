@@ -13,7 +13,7 @@ comments: true
 
 I’m a senior undergraduate Geology student with a passion for Geophysics—especially Seismology and Hydrogeophysics—and Computational Science. Lately, I’ve been exploring AI-driven forecasting, and I also enjoy working with image processing techniques for clustering and classification.
 Beyond academics, I love developing open-source software, where I can blend problem-solving with creativity. I’m an outdoor enthusiast who enjoys hiking, learning about different cultures, and connecting with people. Music and video games are also a big part of my life, offering both inspiration and relaxation.
-I have a deep appreciation for fine pens—my favorite being the Cross ATX—and watches, recently adding a mint green Tissot PRX to my collection. In my free time, I play the Kamancheh, inspired by the artistry of Ali-Asghar Bahari.
+I have a deep appreciation for fine pens—my favorite being the Cross ATX and Parker 105—and watches, recently adding a mint green Tissot PRX to my collection. In my free time, I play the Kamancheh, inspired by the artistry of Ali-Asghar Bahari.
 
 ## Personal Information
 
