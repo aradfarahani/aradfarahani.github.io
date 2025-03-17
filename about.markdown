@@ -157,6 +157,7 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 
 ## Organizations
 
+* Google Maps Platform Innovators, Since March 2025
 * Geological Society of Iran, Since November 2021
 * Iran's National Elites Foundation (INEF), Since December 2020
 * Young Scholars Club (YSC), Since December 2020
