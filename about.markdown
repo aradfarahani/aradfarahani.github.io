@@ -17,7 +17,6 @@ I have a deep appreciation for fine pens—my favorite being the Cross ATX and P
 
 ## Personal Information
 
-* Phone: +98 912 7017410
 * Email: aradfarahani@aol.com
 * ORCID: <a href="https://orcid.org/0009-0008-3800-8688">0009-0008-3800-8688</a>
 * ResearchGate: <a href="https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani">Mahdi Farmahini Farahani</a>
@@ -53,7 +52,7 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 4.	The importance of using Python programming language in Earth science, 26th Conference of Geological Society of Iran - September 2023 <a href="https://www.researchgate.net/publication/374914382_The_importance_of_using_Python_programming_language_in_Earth_science?_sg%5B0%5D=LoPp16VH0-6l0fXCdjovY4qsKuuoBEjgL0erfoZR4Uu8OgKpJLTjo-i0ER6DJQvtxV5yn-6F_LjppW5y3_P8-rhUY1Iw0vsVNspav0fh.6VV6-YV9qqXIscybiYu4WPY6XDq3G_GtZ2_dwcU75rr-MDSamPnew9PxJPwXeni5MqqF4VPfzeTeaEakSNpS3g&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
 
 ### Books
-1.	Farsi translation of Introduction to Python in Earth Science Data Analysis: From Descriptive Statistics to Machine Learning, Tasir Publication - *(In Press)* 
+1.	Farsi translation of Introduction to Python in Earth Science Data Analysis: From Descriptive Statistics to Machine Learning, Tasir Publication - August 2024 
 2.	Environmental Risk Management, Azargan Publication - August 2023 <a href="https://www.researchgate.net/publication/374919527_Environmental_Risk_Management?_sg%5B0%5D=LoPp16VH0-6l0fXCdjovY4qsKuuoBEjgL0erfoZR4Uu8OgKpJLTjo-i0ER6DJQvtxV5yn-6F_LjppW5y3_P8-rhUY1Iw0vsVNspav0fh.6VV6-YV9qqXIscybiYu4WPY6XDq3G_GtZ2_dwcU75rr-MDSamPnew9PxJPwXeni5MqqF4VPfzeTeaEakSNpS3g&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19"> Read More</a>
 
 ## Skills
