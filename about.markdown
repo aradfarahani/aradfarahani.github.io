@@ -164,7 +164,7 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 * UNESCO Innovation and Technology Club-IranUNESCO Innovation and Technology Club-Iran, Octobor 2021 - Octobor 2022
   
 ## Some fun facts about me :<br>
--🎮 I like to play video games in my free time(rather to play indie game)<br>-🌍  I’m a huge fan of GIS, RS, and anything related to Earth Science (a bit of a nerd!). <br>-☕ I can’t start my day without a cup of coffee (Americano or V60)<br>-🎵 Nowadays I'm trying to play the Kamancheh (an Iranian Instrument(Jazz is my favorite genre!!!))
+-🎮 I like to play video games in my free time(rather to play indie game)<br>-🌍  I’m a huge fan of GIS, RS, and anything related to Earth Science (a bit of a nerd!). <br>-☕ I can’t start my day without a cup of coffee (Americano or V60)<br>-🎵 Nowadays I'm trying to play the Kamancheh (an Iranian Instrument(Jazz is my favorite genre!!!))<br>-💖 I love my rubber duck named Pinky. Even though Pinky isn’t actually pink, I love the color pink, so it fits!. Pinky is my little companion, helping me think through problems (rubber duck debugging style)!
 
 ## More
 
