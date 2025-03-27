@@ -9,13 +9,13 @@ comments: true
 feature:
 ---
 
-**A Spontaneous Adventure to Qeshm: A Nowruz to Remember**
+# **A Spontaneous Adventure to Qeshm: A Nowruz to Remember**
 
 During the excitement of Nowruz, I was at Chakad Cafe with my friend Yazdan, enjoying coffee and casual conversation when a sudden urge to travel hit me. With no plans in mind, I suggested to Yazdan that we take a spontaneous trip. Without hesitation, he agreed, and we started browsing flight tickets, unsure of where to go.  
 
 Then, we stumbled upon *Qeshm*, and something about it just felt right. Within moments, we booked a one-way ticket, embracing the thrill of spontaneity. Qeshm, with its natural beauty and relaxed vibe, promised the perfect escape. That night, I couldn’t sleep from the excitement, envisioning beaches, sunsets, and new adventures. The next day, we were off to the airport—no set plans, just two friends ready for a memorable journey.
 
-**Qeshm Chronicles: Coffee, Beaches, and Unexpected Delights**
+# **Qeshm Chronicles: Coffee, Beaches, and Unexpected Delights**
 
 Upon landing in Qeshm, Yazdan and I were filled with excitement and no specific plans, so we headed to the city center. I had heard about *Rise Cafe*, known for the best coffee on the island, and we decided to check it out. The cafe had a relaxed yet sophisticated vibe, and the moment I tasted the coffee, I was blown away—it was hands down the best coffee I’d ever had. 
 
@@ -30,7 +30,7 @@ Despite the chill, there was something calming about Aftab Beach. We wandered al
 
 As the sun started to dip lower in the sky, casting a golden glow over everything, I couldn’t help but think back to how this all started. A spontaneous decision, a quick glance at a ticket website, and now here we were—sipping incredible coffee and strolling on a quiet beach, with no plans other than to soak up the moment.
 
-**A Seafood Feast at C Roll Restaurant: The Freshest Delights of Qeshm**
+# **A Seafood Feast at C Roll Restaurant: The Freshest Delights of Qeshm**
 
 After the incredible sunset at Aftab Beach, Yazdan and I were both feeling the familiar rumble of hunger. We didn’t have a set plan for dinner, but thanks to Google Maps, we quickly found ourselves heading to *C Roll Restaurant*, a spot famous for its seafood, according to glowing reviews. There was one thing we quickly realized when we looked at the menu: this place was all about seafood—and I mean *all* about seafood.
 
@@ -39,7 +39,7 @@ Now, seafood isn't always my first choice, but given that we were on Qeshm Islan
 ![photo_2025-03-25_11-41-29](https://github.com/user-attachments/assets/830359a5-e192-4c70-bb79-ecfde4b3f919)
 
 
-**Chasing Sunrises and Coding: A Peaceful Start in Qeshm**
+# **Chasing Sunrises and Coding: A Peaceful Start in Qeshm**
 
 After a delicious seafood meal at *C Roll Restaurant*, Yazdan and I headed back to the beach to catch the sunrise, eager to experience Qeshm’s natural beauty in the early morning light. The air was cool, and the beach was peaceful, with hardly anyone else around.  
 
@@ -55,7 +55,7 @@ We walked along the shoreline, feeling relaxed and rejuvenated by the peaceful s
 ![photo_2025-03-25_11-41-11](https://github.com/user-attachments/assets/c677cf12-aa88-4be2-b7de-a64c01089438)
 
 
-**Exploring Stars Valley (Stala Kafta) in Qeshm: A Geology Lover’s Dream**
+# **Exploring Stars Valley (Stala Kafta) in Qeshm: A Geology Lover’s Dream**
 
 After a peaceful morning, Yazdan and I set off for Stars Valley (Stala Kafta), a geological wonder I had been eager to explore. As a geology student, seeing its dramatic rock formations—shaped by erosion over millennia—was like stepping into a living textbook.
 
@@ -68,7 +68,7 @@ From a high viewpoint, we took in the vast, sculpted landscape, reflecting on na
 
 
 
-**Exploring the Qeshm Hara Forest: A Unique Ecosystem in the Heart of Qeshm Island**
+# **Exploring the Qeshm Hara Forest: A Unique Ecosystem in the Heart of Qeshm Island**
 
 After our awe-inspiring visit to *Stars Valley*, Yazdan and I were eager for our next stop: the *Qeshm Hara Forest*. This hidden gem, located in northern Qeshm, is a striking contrast to the island’s arid landscapes, featuring vast mangrove forests that thrive in the tidal flats of the Persian Gulf.  
 
@@ -85,7 +85,7 @@ Exploring the *Qeshm Hara Forest* revealed its importance as both a stunning lan
 
 As we left, we felt grateful for the experience and the reminder of nature’s delicate balance. Visiting the *Hara Forest* was the perfect way to conclude our day, showcasing Qeshm’s incredible diversity—from the dramatic formations of *Stars Valley* to the lush beauty of the mangroves.
 
-**A Local Culinary Adventure at Soheyly Restaurant: Qeshm’s Seafood Delights**
+# **A Local Culinary Adventure at Soheyly Restaurant: Qeshm’s Seafood Delights**
 
 After exploring the Qeshm *Hara Forest*, we were eager for an authentic local meal. Taking the advice of friendly locals, we headed to *Soheyly Restaurant*, known for its fresh seafood and regional specialties.  
 
@@ -94,7 +94,7 @@ The restaurant had a cozy, welcoming atmosphere with both indoor and outdoor sea
 ![photo_2025-03-25_11-41-21](https://github.com/user-attachments/assets/80e0cdd9-c3c6-4ece-9d6a-fc550ca4ea37)
 
 
-**A Perfect Ending to an Unforgettable Trip: Coding by the Beach and Heading Home**
+# **A Perfect Ending to an Unforgettable Trip: Coding by the Beach and Heading Home**
 
 ![photo_2025-03-25_11-41-18](https://github.com/user-attachments/assets/7bd7abce-1429-4309-82f6-0b168fd1ea88)
 
