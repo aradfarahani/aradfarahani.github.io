@@ -2,13 +2,12 @@
 layout: post
 title:  "Qeshm Island, Hormazgan, Iran"
 excerpt: "A Spontaneous Adventure"
-date:   2025-03-24 
+date:   2025-03-25
 categories: 
 tags: [Qeshm, Nowruz, Hormozgan]
 comments: true
 feature:
 ---
-
 
 ![image](https://github.com/user-attachments/assets/80e0f757-b8cb-4589-841b-ca0aa6134ca9)
 
@@ -72,7 +71,7 @@ After our awe-inspiring visit to *Stars Valley*, Yazdan and I were eager for our
 
 As we approached, the air grew cooler, and the scenery turned lush and green. Covering around 20,000 hectares, the Hara Forest is often called the "green lung" of Qeshm, playing a crucial role in supporting biodiversity, preventing coastal erosion, and providing a sanctuary for migratory birds. It was the perfect next chapter in our exploration of the island’s natural wonders.
 
-![photo_2025-03-24_15-35-57](https://github.com/user-attachments/assets/75c17f25-5cad-4027-9a5a-cbb8ce5ed95e)
+![image](https://github.com/user-attachments/assets/a32b7467-8635-4575-b6cd-7f5a1db55f88)
 
 Entering the *Hara Forest* felt like stepping into another world, where towering mangroves formed a dense, intricate network of roots rising from the brackish waters of the Gulf. These trees not only adapt to shifting tides but also play a crucial role in stabilizing the coastline and supporting diverse marine life.  
 
@@ -88,11 +87,11 @@ After exploring the Qeshm *Hara Forest*, we were eager for an authentic local me
 
 The restaurant had a cozy, welcoming atmosphere with both indoor and outdoor seating. We chose a spot under a canopy, enjoying the lively street view. Excited to experience the island’s flavors, we ordered a variety of seafood dishes, eager to indulge in the best of Qeshm’s cuisine.
 
-![photo_2025-03-25_11-41-21](https://github.com/user-attachments/assets/c1afd351-982d-461e-b252-c53cbe447e18)
+![image](https://github.com/user-attachments/assets/3843c048-addf-4e21-8d54-b7418082e2fa)
 
 **A Perfect Ending to an Unforgettable Trip: Coding by the Beach and Heading Home**
 
-![photo_2025-03-25_11-41-18](https://github.com/user-attachments/assets/ba0c2c57-65b9-4715-82a1-afbb48392d77)
+![image](https://github.com/user-attachments/assets/0dc9c112-e969-4f24-9eeb-40b4c358da88)
 
 After a delicious meal at *Soheyly Restaurant*, Yazdan and I decided to make the most of our final hours in Qeshm with one last visit to the beach. As the sun cast a golden glow over the waves, we soaked in the peaceful atmosphere. While Yazdan relaxed, I took the opportunity to finish some coding, finding inspiration in the serene surroundings.  
 
