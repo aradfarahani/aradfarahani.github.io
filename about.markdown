@@ -111,6 +111,7 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 *	[Founder & Research and Development Specialist, FEZtool, August 2023 – Present](https://feztool.com/)
 *	[Talent Acquisition Specialist, BABAEEE, July 2022 - Present (Volunteering)](https://aradfarahani.com//BABAEEE2/)
 *	Teacher, Iranian Young Scholars Club(IrYSC), September 2021 - Present
+*	Graphics Committee Member, 3rd Festival of Iran Young Geologist, May 2024 - June 2024 (Volunteering)
 *	[Board Member, NovaVira, June 2023 - November 2024](https://novavira.com/)
 *	[Applied Data Science in Geology Instructor, Young Scholars Club, July 2024](https://aradfarahani.com//IESO2024/)
 *	[The Advance Python and Machine Learning workshop Instructor, Kharazmi University,  April 2024 - June 2024](https://aradfarahani.com//KhUAdvanceGeoML/)
