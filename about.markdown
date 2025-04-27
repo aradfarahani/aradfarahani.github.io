@@ -167,6 +167,7 @@ As the Vice President of Media at the Geological University of Kharazmi Universi
 
 ## More
 
+[Download Updated CV](https://github.com/aradfarahani/aradfarahani/blob/main/CV/aradfarahani.pdf){: .btn}
 [Download Posters + infographics](/Posters.pdf){: .btn}
 [Download Zamin Pouya 30](/Zamin Pouya 30.pdf){: .btn}
 
