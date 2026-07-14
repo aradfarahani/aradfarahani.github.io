@@ -2,6 +2,7 @@
 layout: post
 title:  "Beyond Earth: Introducing PlanetaryGeophysics"
 excerpt: "An open-source toolkit for exploring the topography, seismicity, and magnetic fields of the Solar System."
+project: true
 date:   2026-07-14
 categories: [Research, Open-Source]
 tags: [PlanetaryScience, Geophysics, Python, Mars, InSight, OpenData]
