@@ -7,6 +7,7 @@ comments: true
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header" width="100%">
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a7eb16af-0673-44c1-a135-3e93abf7e4a6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 [![LeetCode user aradfarahani](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faradfarahani&logo=leetcode&logoColor=yellow)](https://leetcode.com/aradfarahani/)
 
 <center> Hello everyone; My name is Mahdi Farmahini Farahani But, everybody calls Me <a href="https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani"><b>Arad</b></a> and this is my Personal Website! You can find detailed stories and my journey for every field trip. For the best user experience, please visit my site on your PC. Enjoy exploring!</center>
