@@ -19,12 +19,11 @@ I attended the seminar with a diverse group of friends, each specializing in dif
 - Zeinab, who holds an M.Sc. in Animal Biology from the University of Tehran
 - Mohammad Javad, a Ph.D. candidate in Mathematics (Topology) at Iran University of Science and Technology
 - Maryam, a Ph.D. candidate in Mathematics (Number Theory) at Tarbiat Modares University
-- And obviously Myself(Arad), An Undergraduate Geology Student at Kharazmi University
+- And obviously Myself (Arad), An Undergraduate Geology Student at Kharazmi University
 
 ![photo_2024-07-28_17-14-26](https://github.com/user-attachments/assets/a12ce98d-caa4-4619-b8cc-b1a9dfda21d1)
 
-
-The WSS provided us with a unique platform to explore cutting-edge research and engage in stimulating discussions about the latest advancements in computer science and engineerin. The event featured a series of seminars where speakers presented their research findings and ideas, workshops focused on practical subjects, and round table discussions that allowed for in-depth exploration of specific topics.
+The WSS provided us with a unique platform to explore cutting-edge research and engage in stimulating discussions about the latest advancements in computer science and engineering. The event featured a series of seminars where speakers presented their research findings and ideas, workshops focused on practical subjects, and round table discussions that allowed for in-depth exploration of specific topics.
 
 What struck me most about the seminar was the breadth of topics covered and the interdisciplinary nature of many presentations. As I listened to talks on various aspects of computer science and its applications, I found myself increasingly drawn to the intersection of computational science and geoscience.
 
@@ -34,7 +33,4 @@ Attending the WSS with friends from diverse scientific backgrounds also highligh
 
 As I reflect on this experience, I'm grateful for the opportunity to have participated in such a high-quality event at Sharif University of Technology. The WSS has not only broadened my horizons but also helped shape my future academic aspirations. I'm excited about the possibility of contributing to the growing field at the intersection of computational science and geoscience, and I look forward to exploring this path further in my academic journey.
 
-<img width="826" height="695" alt="image" src="https://github.com/user-attachments/assets/301c2fdb-5823-4356-9e44-e634b957f17e" />
-
-
-
+![WSS Event Image](https://github.com/user-attachments/assets/301c2fdb-5823-4356-9e44-e634b957f17e)
