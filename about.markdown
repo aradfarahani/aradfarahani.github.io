@@ -19,7 +19,7 @@ Beyond pure research, I am an entrepreneur dedicated to building scalable techno
 
 ## Personal Information
 
-- Email: <a href="mailto:aradfarahani@link.cuhk.edu.hk">aradfarahani@link.cuhk.edu.hk</a>
+- Email: <a href="mailto:aradfarahani@aol.com">aradfarahani@aol.com</a>
 - ORCID: <a href="https://orcid.org/0009-0008-3800-8688">0009-0008-3800-8688</a>
 - ResearchGate: <a href="https://www.researchgate.net/profile/Mahdi-Farmahini-Farahani">Mahdi Farmahini Farahani</a>
 - LinkedIn: <a href="https://linkedin.com/in/aradfarahani">Mahdi Farmahini Farahani</a>
