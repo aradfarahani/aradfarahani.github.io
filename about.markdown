@@ -37,7 +37,7 @@ Beyond pure research, I am an entrepreneur dedicated to building scalable techno
 - Bachelor of Science, Geology, 2021 – 2025
 ### Activities and Societies:
 - Chairperson of the Geological Society of Kharazmi University: June 2024 – June 2025
-- Vice President of Media at the Geological Society of Kharazmi University: Nov 2023 – June 2024
+- Vice President of Media at the Geological Society of Kharazmi University: November 2023 – June 2024
 
 As the Vice President of Media, I managed a diverse range of creative responsibilities: designing posters for seminars and workshops, creating monthly Earth Science infographics to make complex topics accessible, organizing monthly webinars under the banner of **KhU GeoTalk**, and designing the cover and layout for the 30th issue of the Specialized Scientific Quarterly, *Zamin Pouya*. You can explore some of these creative works at the bottom of this page!
 
@@ -45,28 +45,43 @@ As the Vice President of Media, I managed a diverse range of creative responsibi
 - Lille, France
 - Pre-Ph.D. Water Resource Management Summer School (5 ECTS), Summer 2024
 
-### Salam High School
-- Yousefabad Branch, Tehran, Iran
-- High School Diploma, Science, 2018 – 2021
-
 ## Publications
 
 ### Journal Articles
-1. Talkhablou, M., Farmahini Farahani, M., & Mansouri, S. S. (2025). A Python-Based Framework for Land Cover Classification in Engineering Geology: A Comparative Assessment of SVM, K-Means, and Spectral Indices, *Kharazmi Journal of Earth Sciences*. <a href="https://www.researchgate.net/publication/396213857_A_python-based_framework_for_land_cover_classification_in_engineering_geology_A_comparative_assessment_of_SVM_K-means_and_spectral_indices">Read More</a>
-2. Designing the Green Belt in the southwest of Zahedan, *Ovan Scientific Journal* (June 2024). <a href="https://www.researchgate.net/publication/381197940_Designing_the_Green_Belt_in_the_southwest_of_Zahedan">Read More</a>
-3. Effects and social damage of fine dust, *Ovan Scientific Journal* (June 2024). <a href="https://www.researchgate.net/publication/381203362_Effects_and_social_damage_of_fine_dust">Read More</a>
-4. Investigating the Accuracy of Hybrid Models with Wavelet Transform in the Simulation of Watershed Runoff, *Journal of Water Management Modeling (JWMM)* (June 2023). <a href="https://www.researchgate.net/publication/371328175_Investigating_the_Accuracy_of_Hybrid_Models_with_Wavelet_Transform_in_the_Forecast_of_Watershed_Runoff">Read More</a>
+1. Talkhablou, M., Farmahini Farahani, M., & Mansouri, S. S. (2025). A Python-Based Framework for Land Cover Classification in Engineering Geology: A Comparative Assessment of SVM, K-Means, and Spectral Indices, *Kharazmi Journal of Earth Sciences*.
+2. Farmahini Farahani, M. (2024). Effects and social damage of fine dust. *Ovan Scientific Journal*. <a href="https://www.researchgate.net/publication/381203362_Effects_and_social_damage_of_fine_dust">Read More</a>
+3. Farmahini Farahani, M. (2024). Designing the green belt in the southwest of Zahedan. *Ovan Scientific Journal*. <a href="https://www.researchgate.net/publication/381197940_Designing_the_Green_Belt_in_the_southwest_of_Zahedan">Read More</a>
+4. Saravani, M. J., Kashef, S., Farmahini Farahani, M., Kashefi, M., & Zohreh, M. (2023). Investigating the accuracy of hybrid models with wavelet transform in the forecast of watershed runoff. *Journal of Water Management Modeling (JWMM)*. <a href="https://www.researchgate.net/publication/371328175_Investigating_the_Accuracy_of_Hybrid_Models_with_Wavelet_Transform_in_the_Forecast_of_Watershed_Runoff">Read More</a>
 
 ### Conference Papers
-1. Visualization of Magnetometric Data with Python (Case Study: Segregation of Sedimentary Units of Torud Playa), *The 1st Conference on Applied Geophysics in Mines* (March 2024) **(Oral)**. <a href="https://www.researchgate.net/publication/378739800_Visualization_of_magnetometric_data_with_Python_case_study_Segregation_sedimentary_units_of_Torud_Playa">Read More</a>
-2. Comparing the Performance of the K-Means Clustering Method and Spectral Indices in Characterizing Land Use and Land Cover Using Remote Sensing with Python (Case Study: Landsat 8 Multi-Spectral Images), *2nd International Conference for Iranian Geography and Earth Sciences Students* (February 2024). <a href="https://www.researchgate.net/publication/378307658_Comparing_the_performance_of_the_k-means_clustering_method_and_spectral_indices_in_characterizing_land_use_and_land_cover_using_remote_sensing_with_Python_case_study_Landsat_8_multi-spectral_images">Read More</a>
-3. Application of PCA Algorithm in Remote Sensing Using Python Programming Language (Case Study: Landsat 9 Multispectral Images), *8th Symposium of Sedimentological Society of Iran* (January 2024). <a href="https://www.researchgate.net/publication/377838524_Application_of_PCA_algorithm_in_remote_sensing_using_Python_programming_language_case_study_Landsat_9_multispectral_images">Read More</a>
-4. The Importance of Using Python Programming Language in Earth Science, *26th Conference of Geological Society of Iran* (September 2023). <a href="https://www.researchgate.net/publication/374914382_The_importance_of_using_Python_programming_language_in_Earth_science">Read More</a>
+1. Farmahini Farahani, M., & Bagheri, M. (2026, November). Attention Guided Dual Dilated CNN for Enhanced Random Noise Suppression in Seismic Records. In *22\textsuperscript{nd} Iranian Geophysical Conference (IGC22)*, Tehran, Iran.
+2. Khosravani, F., Farmahini Farahani, M., & Bagheri, M. (2026, November). Fourier Neural Operators with pointwise Convolutional Neural Networks for Seismic data random noise attenuation. In *22\textsuperscript{nd} Iranian Geophysical Conference (IGC22)*, Tehran, Iran.
+3. Farmahini Farahani, M. (2025, August). Machine Learning-Enhanced Seismic Event Detection and Noise Reduction for Planetary Seismology: Insights from Mars and Lunar Data. In *Seismology Student Workshop (SSW 2025)*, GatherTown (Virtual).
+4. Rezaei, K., & Farmahini Farahani, M. (2024, March). Visualization of magnetometric data with Python (case study: Segregation sedimentary units of Torud Playa). In *The 1\textsuperscript{st} Conference on Applied Geophysics in Mines*, Tehran, Iran **(Oral)**.
+5. Rezaei, K., & Farmahini Farahani, M. (2024, February). Comparing the performance of the k-means clustering method and spectral indices in characterizing land use and land cover using remote sensing with Python (case study: Landsat 8 multi-spectral images). In *2\textsuperscript{nd} International Conference for Iranian Geography and Earth Sciences Students*, Tehran, Iran.
+6. Farmahini Farahani, M., Rezaei, K., Karamollahi, S., & Moghadam, F. J. (2024, January). Application of PCA algorithm in remote sensing using Python programming language (case study: Landsat 9 multispectral images). In *8\textsuperscript{th} Symposium of Sedimentological Society of Iran*, Hormozgan, Iran.
+7. Rezaei, K., & Farmahini Farahani, M. (2023, September). The importance of using Python programming language in Earth science. In *26\textsuperscript{th} Conference of Geological Society of Iran*, Urmia, Iran.
 
 ### Books
-1. Earthquake Prediction Using Geophysical Data Analysis and Artificial Intelligence, *Heritage Branch, Library and Archives Canada* (May 2025). <a href="https://www.amazon.com/dp/106932437X/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.fV6NcKzNqVmNMx01e9olJh9RUoGgbt3bwYVVMROKdEU.v8uasEadi-iUYNyBqfXdQtpDWmK8WfYL80Y5MgFWLiI&qid=1748198567&sr=1-2">Read More</a>
-2. Farsi translation of *Introduction to Python in Earth Science Data Analysis: From Descriptive Statistics to Machine Learning*, *Tasir Publication* (August 2024).
-3. Environmental Risk Management, *Azargan Publication* (August 2023). <a href="https://www.researchgate.net/publication/374919527_Environmental_Risk_Management">Read More</a>
+1. Farmahini Farahani, M., Najibifar, Y., & Akbarzadeh Afshari, A. (2025). Earthquake Prediction Using Geophysical Data Analysis and Artificial Intelligence. *Heritage Branch, Library and Archives Canada*. <a href="https://www.amazon.com/dp/106932437X/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.fV6NcKzNqVmNMx01e9olJh9RUoGgbt3bwYVVMROKdEU.v8uasEadi-iUYNyBqfXdQtpDWmK8WfYL80Y5MgFWLiI&qid=1748198567&sr=1-2">Read More</a>
+2. Rezaei, K., Farmahini Farahani, M., Karimzadehasl, E. (Trans.). (2024). *Introduction to Python in Earth science data analysis: From descriptive statistics to machine learning*. *Tasir Publication*. (Original work published by Maurizio Petrelli)
+3. Karimi Pashaki, A., Farmahini Farahani, M., Soleimani, J., & Karimzadegan, Y. (In Farsi). (2023). *Environmental Risk Management*. *Simorgh Aseman Azargan Publication*. <a href="https://www.researchgate.net/publication/374919527_Environmental_Risk_Management">Read More</a>
+
+## Projects
+- **Planetary Geophysics** | <a href="https://github.com/aradfarahani/PlanetaryGeophysics/">github.com/aradfarahani/PlanetaryGeophysics</a> (2025 – Present)
+  - Built an open-source Python platform for analyzing and visualizing planetary geophysical data.
+- **FEZrs (Open Source)** | <a href="https://pypi.org/project/fezrs/">pypi.org/project/fezrs</a> (2023 – Present)
+  - Advanced Python library for remote sensing, developed by FEZtool with over 100,000 downloads.
+- **Seismicity Analysis in Iran (2010–2025)** | <a href="https://www.iris.edu/hq/workshops/2025/06">iris.edu/hq/workshops/2025/06</a> (2025)
+  - Performed Iran seismicity analysis for the Seismology Skill-Building Workshop 2025 final project.
+- **Geoelectricspy (Open Source)** | <a href="https://zenodo.org/records/10966815">zenodo.org/records/10966815</a> (2023)
+  - Interactive 3D visualization tool for subsurface resistivity using geoelectrics survey data.
+
+## Invited Talks
+1. **Seismic Data Denoising in the Era of Neural Networks:** 5th National Festival of Young Iranian Geologists (Hosted by Mohaghegh Ardabili University, Kharazmi University, RIES, & UNESCO Chair); 17 October 2026
+2. **Walrus: A Cross-Domain Foundation Model for Continuum Dynamics:** Applied ML Lab, Center for Complex Networks, Department of Physics, Shahid Beheshti University; 13 December 2025
+3. **Applied Artificial Intelligence in Earth Science:** Faculty of Geosciences, Shahrood University of Technology & Faculty of Earth Sciences, Kharazmi University; 11 November 2025
+4. **Applications of Artificial Intelligence in Education and Earth Science Analysis:** Educational Technology Expert Group, Karaj and Fardis County Department of Education, District 2; 30 December 2024
 
 ## Skills
 ### Programming Languages
@@ -119,66 +134,64 @@ As the Vice President of Media, I managed a diverse range of creative responsibi
 ## Fieldwork Skills
 - **Drone Surveying**
 - **Geoelectrical Surveys (Induced Polarization & Resistivity Sounding - IP-RS)**
+- **Seismic Refraction Data Acquisition**
 
 ## Teaching and Work Experiences
 * [Founder & Research and Development Specialist, FEZtool, August 2023 – Present](https://feztool.com/)
 * [Talent Acquisition Specialist, BABAEEE, July 2022 – Present (Volunteering)](https://aradfarahani.com//BABAEEE2/)
-* Teacher, Iranian Young Scholars Club (IrYSC), September 2021 – Present
-* Graphics Committee Member, 3rd Festival of Iran Young Geologist, May 2024 – June 2024 (Volunteering)
-* [Board Member, NovaVira, June 2023 – November 2024](https://novavira.com/)
+* Hydrogeology Teaching Assistant, CUHK, August 2026 – Present
+* Lecturer, Space Research and Technology Institute (SRTI), August 2026 – September 2026
+* Teacher, Iranian Young Scholars Club (IrYSC), April 2021 – August 2026
+* Programming Teaching Assistant, Kharazmi University, April 2025 – June 2025
+* Geostatistics Teaching Assistant, Kharazmi University, February 2025 – June 2025
+* Research Assistant, Kharazmi University, October 2024 – January 2025
 * [Applied Data Science in Geology Instructor, Young Scholars Club, July 2024](https://aradfarahani.com//IESO2024/)
 * [Advanced Python and Machine Learning Workshop Instructor, Kharazmi University, April 2024 – June 2024](https://aradfarahani.com//KhUAdvanceGeoML/)
+* Graphics Committee Member, 3rd Festival of Iran Young Geologist, May 2024 – June 2024
 * [Editorial Board Member, Imam Khomeini International University, September 2023 – June 2024 (Volunteering)](https://www.researchgate.net/publication/381197940_Designing_the_Green_Belt_in_the_southwest_of_Zahedan)
+* [Board Member, NovaVira, June 2023 – November 2024](https://novavira.com/)
 * Project Manager, ARYANIC, November 2022 – June 2023
 * [Product Manager & Head of Entrepreneurship Olympiad Department, GreenOly, August 2022 – January 2023](https://aradfarahani.com//MOOC/)
-* Teacher, Young Scholars Club, April 2022 – May 2022
 * Proofreader, Olgoo Publication, December 2021 – February 2022
 * Teacher, National Organization for Development of Exceptional Talents (NODET), May 2021 – September 2021
 
+## Community Service
+* Associate Editor & Reviewer, Zamin Pouya Scientific Journal Vol. 31, August 2025 – June 2026
+* Education Committee Member, The 4th National Festival of Young Iranian Geologists, April 2025 – May 2025
+* Graphics Committee Member, The 3rd National Festival of Young Iranian Geologists, May 2024 – June 2024
+* Editorial Board Member, Imam Khomeini International University, September 2023 – June 2024
+
 ## Licenses & Certifications
-* International Data Masterclass, United Nations Big Data, March 2024
-* Application of Remote Sensing in Geology, Zawinas, January 2024
-* Investigating Practical Issues in the Exploration of Sulphide Deposits Using the IP-RS Method, National Iranian Geophysical Society (NIGS), December 2023
-* AI and Climate Change, DeepLearning.AI (Offered by Coursera), October 2023
-* Global Environmental Management, Technical University of Denmark (DTU) (Offered by Coursera), September 2023
-* The Second Summer School of Geology, University of Tabriz, September 2023
-* Remote Pilot Certification, Civil Aviation Authority of Islamic Republic of Iran, August 2023
-* Unmanned Aerial Vehicle Surveying, Maan Academy, July 2023
-* GIS, Mapping, and Spatial Analysis Specialization, University of Toronto (Offered by Coursera), June 2023
-* Hydraulic Modeling of Flood Plains in Urban Rivers, Kharazmi University, June 2022
-* CS50 Certificate, CS50 (Harvard University), September 2021
-* Introduction to Data Analytics, IBM (Offered by Coursera), March 2021
+* Applied Geotechnical Seismology, Kharazmi University, 2026
+* Applications of Non-Destructive Geophysical Methods in Engineering Geology Studies, Kharazmi University
+* Seismology Skill Building Workshop 2025, EarthScope Consortium, 2025
+* Investigating practical issues in the exploration of Sulphide Deposits using the IP-RS method, National Iranian Geophysical Society, 2023
+* Remote Pilot Certification (Multirotor), Civil Aviation Authority of Islamic Republic of Iran, 2023
+* Unmanned Aerial Vehicle Surveying, Maan Academy, 2023
+* GIS, Mapping, and Spatial Analysis Specialization, University of Toronto (Offered by Coursera), 2023
+* CS50 Certificate, CS50 (Harvard University), 2021
 
 ## Honors & Awards
-- CUHK International Student PhD Fellowship, The Chinese University of Hong Kong, 2026
-- Ranked 8th out of 60 students in Undergraduate Studies, Kharazmi University, February 2025
-- Merit Award (Ideator Category), 9th National Young Scientists Festival, 2025
-- Ranked 8th Nationally, Master of Geophysics National University Entrance Exam (Konkoor), National Organization of Educational Testing, Fall 2025
-- Hydro 2024 Research-Oriented Summer School Full Scholarship, International Academy, May 2024
-- Ranked 11th among all participants in the 2024 Master of Geophysics University Entrance Exam (Konkoor), National Organization of Educational Testing, April 2024
-- Winner of the Geological Society of Kharazmi University logo design contest, Kharazmi University, February 2024
-- Received a 2500 DKK grant from the University of Copenhagen for a research visit, University of Copenhagen, December 2023
-- Gold Medalist of the DrCT 2021, Singapore International Math Contest Centre (SIMCC), July 2021
-- Silver Medalist of the 1st National Thinking & Entrepreneurship Olympiad (ITEO), December 2020
-- Acceptance of the First Stage of the 1st National Earth Science Olympiad (IrESO), January 2020
-- Acceptance of the First Stage of the 22nd National Biology Olympiad (IrBO), January 2019
-- Honorary Diploma in the First Super Championship Cup of Tehran Math Home, November 2017
-- Scholarship of the Elite Club of Tehran Math Home, September 2017
-- Silver Medalist of WMI 2015 World Mathematical Championships Selection, July 2015
-- Award for the Best Student of the Young Mathematicians Association, June 2015
+- Geology & Geophysics Photo Contest Student Winner, EEGS, 2026
+- CUHK's International Student PhD Fellowship Awardee, CUHK, 2026
+- 9th National Young Scientists Festival Merit Award Winner, Geology Category, 2025
+- Hydro 2024 Research-Oriented Summer School Full Scholarship, University of Lille, 2024
+- Research Visit Grant (2500 DKK) Awardee, University of Copenhagen, 2022
+- DrCT 2021 Global Computational Competition Gold Medalist, 2021
+- 1st National Thinking & Entrepreneurship Olympiad (ITEO) Silver Medalist, 2020
 
 ## Language
 #### Persian (Native)
-#### English (Fluent)
+#### English (Fluent (C1))
+#### German (Elementary (A2))
+#### Mandarin (Beginner (Duolingo Score: 11))
 
 ## Organizations
 
-- National Iranian Geophysical Society, Since 2025
-- Space Generation Advisory Council, Since 2025
-- Google Maps Platform Innovators, Since March 2025
-- Young Scholars Club (YSC), Since December 2020
-- Geological Society of Iran, November 2021 – November 2022
-- UNESCO Innovation and Technology Club-Iran, October 2021 – October 2022
+- National Iranian Geophysical Society, Student member, 2025 – Present
+- Space Generation Advisory Council, Member, 2025 – Present
+- Google Maps Platform Innovators, Member, 2025 – Present
+- Geological Society of Iran, Student member, 2021 – 2022
 
 ## Some fun facts about me:
 - 🎮 I like to play video games in my free time (especially indie games).
